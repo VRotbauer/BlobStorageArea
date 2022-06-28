@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VRotbauer/blobstorage/issues"
   },
-  "homepage": "https://github.com/VRotbauer/blobstorage#readme"
+  "homepage": "https://github.com/VRotbauer/blobstorage#readme",
+  "devDependencies": {
+    "vitest": "^0.16.0"
+  }
 }
