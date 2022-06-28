@@ -1,0 +1,19 @@
+{
+  "name": "blobstorage",
+  "version": "1.0.0",
+  "description": "Class that stores data into StorageArea efficiently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VRotbauer/blobstorage.git"
+  },
+  "author": "Vít Rotbauer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VRotbauer/blobstorage/issues"
+  },
+  "homepage": "https://github.com/VRotbauer/blobstorage#readme"
+}
